@@ -1,0 +1,26 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.box-part {
+    background-color: rgba(189, 120, 31, 0.521);
+    padding: 40px 10px;
+    margin: 20px 0px;
+    border-radius: 2rem;
+}
+
+ul {
+    margin: 520px;
+    display: inline;
+    text-align: center;
+    font-size: 2rem;
+}
+
+li {
+    border: solid 5px rgba(7, 7, 7, 0.781);
+    color: rgb(7, 7, 7);
+    background-color: bisque;
+    border-radius: 10pt;
+}
